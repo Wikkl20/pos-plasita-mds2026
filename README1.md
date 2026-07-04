@@ -79,15 +79,15 @@ Este proyecto aplica el **Modelo Incremental** porque:
 
 ## 📁 Estructura del Repositorio
 pos-plasita-mds2026/
-├── docs/                    # Documentación del proyecto
-│   ├── 01-diagnostico.md    # Diagnóstico organizacional
-│   ├── 02-ERS.md            # Especificación de Requisitos
-│   ├── 03-arquitectura.md   # Diseño de arquitectura
-│   ├── 04-plan-calidad.md   # ISO 25010 + SQA Shift Left
-│   └── 05-casos-de-prueba.md
-├── incremento-1/            # Artefactos del Incremento 1
-├── incremento-2/            # Artefactos del Incremento 2
-└── assets/diagramas/        # Imágenes y diagramas
+-├── docs/                    # Documentación del proyecto
+-│   ├── 01-diagnostico.md    # Diagnóstico organizacional
+-│   ├── 02-ERS.md            # Especificación de Requisitos
+-│   ├── 03-arquitectura.md   # Diseño de arquitectura
+-│   ├── 04-plan-calidad.md   # ISO 25010 + SQA Shift Left
+-│   └── 05-casos-de-prueba.md
+-├── incremento-1/            # Artefactos del Incremento 1
+-├── incremento-2/            # Artefactos del Incremento 2
+-└── assets/diagramas/        # Imágenes y diagramas
 
 ---
 
