@@ -37,3 +37,29 @@ Arquitectura **offline-first distribuida**: cada caja opera de forma
 autónoma con su propia base de datos local. Registra ventas sin necesidad 
 de conexión al servidor. Cuando la red se restaura, sincroniza 
 automáticamente con el servidor central de la administradora.
+---
+
+## 📊 Seguimiento del Proyecto
+
+El avance se gestiona mediante **GitHub Projects** con tablero Kanban.  
+Cada tarea está asignada a un integrante y vinculada a su incremento.
+
+- 🔵 Issues activas → tablero del proyecto
+- 📌 Milestones → Cierre Incremento 1 · Cierre Incremento 2
+- 🏷️ Etiquetas → `incremento-1` `incremento-2` `sqa` `análisis` `diseño`
+
+---
+
+## 📐 Plan de Calidad — ISO/IEC 25010
+
+Características críticas del sistema:
+
+| Característica | Nivel | Métrica |
+|---------------|-------|---------|
+| Confiabilidad | 5/5 ★ | Disponibilidad ≥ 99.5% · Recuperación ≤ 5 min |
+| Eficiencia de Desempeño | 5/5 ★ | 14 usuarios simultáneos · Respuesta ≤ 2 seg |
+| Seguridad | 5/5 ★ | 0 vulnerabilidades críticas OWASP Top 10 |
+
+---
+
+*Proyecto académico — Universidad Peruana Los Andes · 2026-I*
