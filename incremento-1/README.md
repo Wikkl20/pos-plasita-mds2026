@@ -21,7 +21,7 @@ Comprender completamente el problema de Plasita, especificar los requisitos del 
 
 ## Issues del Incremento
 
-Ver todas las issues etiquetadas con `incremento-1` en el [tablero del proyecto →](#)
+Ver todas las issues etiquetadas con `incremento-1` en el [tablero del proyecto →](https://github.com/Wikkl20/pos-plasita-mds2026/milestone/2)
 
 ## Lección aprendida
 
