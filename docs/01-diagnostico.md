@@ -10,7 +10,7 @@
 
 | Atributo | Detalle |
 |----------|---------|
-| **Nombre** | Tienda Plasita |
+| **Nombre** | Plasita |
 | **Ubicación** | Huancayo, Región Junín, Perú |
 | **Rubro** | Comercio minorista — artículos de primera necesidad y consumo masivo |
 | **Antigüedad** | 7 años de operación |
@@ -30,7 +30,7 @@ Tienda Plasita opera actualmente con el sistema **VipSystem**, solución POS ins
 [Caja 1] ──┐
 [Caja 2] ──┤
 [Caja 3] ──┤──→ [SERVIDOR CENTRAL VipSystem] ──→ [Base de datos única]
-   ...      │         (punto único de fallo)
+   ...     │         (punto único de fallo)
 [Caja 14]──┘
 ```
 
