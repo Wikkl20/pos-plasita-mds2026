@@ -25,7 +25,7 @@ Construir el módulo POS con arquitectura offline-first y demostrar el ciclo com
 
 ## Issues del Incremento
 
-Ver todas las issues etiquetadas con `incremento-2` en el [tablero del proyecto →](#)
+Ver todas las issues etiquetadas con `incremento-2` en el [tablero del proyecto →](https://github.com/Wikkl20/pos-plasita-mds2026/milestone/2)
 
 ## Demostración del ciclo completo
 
