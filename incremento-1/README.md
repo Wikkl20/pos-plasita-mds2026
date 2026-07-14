@@ -15,7 +15,7 @@ Comprender completamente el problema de Plasita, especificar los requisitos del 
 |-----------|-----------|--------|
 | Diagnóstico organizacional | `docs/01-diagnostico.md` | ✅ |
 | ERS v1.0 (IEEE 830) | `docs/02-ERS.md` | ✅ |
-| Wireframes Figma | [Ver en Figma →](#) | ✅ |
+| Wireframes Figma | [Ver en Figma →](https://www.figma.com/design/2Ot3vojoeffOQZP7MqvYbF/POS-PLASITA---Sistema-Offline-First?node-id=20-137&t=TjJM9KhXF4gOu4NM-1) | ✅ |
 | Checklist SQA1 | `docs/02-ERS.md` sección 8 | ✅ |
 | Acta de validación con cliente | `incremento-1/acta-validacion.md` | ✅ |
 
